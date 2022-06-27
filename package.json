@@ -1,0 +1,23 @@
+{
+  "name": "teste_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gota03/teste_javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gota03/teste_javascript/issues"
+  },
+  "homepage": "https://github.com/gota03/teste_javascript#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}

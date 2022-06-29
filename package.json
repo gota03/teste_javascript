@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
-  "repository": {
+  "repository": { 
     "type": "git",
     "url": "git+https://github.com/gota03/teste_javascript.git"
   },
